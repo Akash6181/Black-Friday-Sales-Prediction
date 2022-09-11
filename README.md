@@ -1,3 +1,5 @@
+#Black-Friday-Sales-Prediction
+
 The purpose of this study is to observe and analyze the consumer behaviors of the Black Friday customer. The day after Thanksgiving, Black Friday is a term used by the retail industry in the United States that signifies the Christmas holiday shopping season.
 
 Thanks giving Day is on the last Thursday of November; therefore, the holiday shopping season runs from the Friday after Thanksgiving Day and continues until Christmas eve, the day before Christmas. Black Friday is not a national holiday. However, many employees have Thanksgiving Day holidays and the following day, increasing the number of potential shoppers on that Friday. Black Friday is famously known for long lines with customers waiting outdoors in cold weather waiting for the store to open, confusion, and customers' chaos. Once the retail doors open for business, the challenges faced are Heavily crowded stores, limited products available at a reduced price, long lines, and the lack of advertised sale products.
